@@ -1,5 +1,5 @@
 # Soul Sync 
-### Built with 💙 by Team HITR
+### Built with 💙 by Team Two Threads
 <br>
 
 ``` "Soul Sync is an AI-powered mental wellness platform that uses stress assessment, personalized coping strategies, and emotional interaction to support users in real time." ```
@@ -8,11 +8,8 @@
 
 ## 👥 Team Members
 
-- [Ananya Gupta](https://github.com/ananyag309)  
 - [Charvi Singh](https://github.com/4V-Lagging-24by7)  
-- [Aditi Singh](https://github.com/Aditi-Singh-15)  
-- [Devanshi Jaiswal](https://github.com/devanshi-cloud)  
-- [Aditi Jain](https://github.com/Aditijainnn)
+- [Ananya Gupta](https://github.com/ananyag309)  
 
 ---
 
