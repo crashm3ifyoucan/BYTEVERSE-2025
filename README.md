@@ -76,6 +76,12 @@ From Home Page:
 
 ---
 
+## Project Setup Guide 
+
+Refer to the guidelines to run it successfully → [Project-Setup-Guide](./Project-Setup-Guide.md)
+
+---
+
 ## 🧠 AI & Technology Stack
 
 | Feature              | Tech Used                              |
